@@ -1,0 +1,83 @@
+
+    *{
+        margin: 0%;
+        padding: 0%;
+        color: white;
+    }
+    body{
+        background-color: rgb(90, 86, 93);
+    }
+    header{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 300px;
+
+    }
+    header h1{
+        font-family: 'Amatic SC', cursive;
+        font-size: 4em;
+        width: 300px;
+        text-align: center;
+    }
+    header img{ 
+        width: 400px;
+        position: absolute;
+        margin-left: 65%;
+        margin-top: -5%;
+    }
+    p{
+        font-family: 'Roboto', sans-serif;
+        font-size: 1.4em;
+        line-height: 50px;
+        text-indent: 25px;
+    }
+    h1,h2,h3{
+        font-family: 'Amatic SC', cursive;
+    }
+    h2{
+        font-size: 2.5em;
+        word-spacing: 25px;
+        margin-top: 50px;
+    }
+    .image{
+        width: 48%;
+    }
+    h3{
+        margin-top: 50px;
+        font-size: 1.5em;
+        word-spacing: 10px;
+    }
+    main{
+        margin-left: 25%;
+        margin-right: 25%;
+    }
+    .citation{
+        text-align: center;
+        margin-top: 100px;
+        font-size: 2em;
+    }
+
+    legend{
+        margin-left: 80%;
+        font-size: 1.4em;
+    }
+    
+    footer img{
+        margin-left: 47%;
+        margin-top: 100px;
+        width: 8%;
+    }
+    footer p {
+        text-align: center;
+    }
+    #source{
+        margin-left: 30%;
+        font-size: 1.5em;
+    }
+    .lien{
+        color: rgb(0, 174, 255);
+        font-size: 1.1em;
+        
+    }
+
